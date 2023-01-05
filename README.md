@@ -17,6 +17,7 @@ The task is to create a Python script that analyzes the records (from the provid
 Finally, the PyBank script should print the final analysis to the terminal **and** export a text file with the results. The output result expected for the provided data sample is:
 
  ` **Financial Analysis*`
+ 
  ` ---------------------`
  
  ` Total Months: 86`
