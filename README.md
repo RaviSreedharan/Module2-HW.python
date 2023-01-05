@@ -1,6 +1,6 @@
 # Module 2 Homework (Python)
 ## _Attempting only [PyBank]; skipping the optional [PyRamen] challenge_
----
+
 The task is to create a Python script that analyzes the records (from the provided 'budget_data.csv' file to calculate each of the following:
 
  _1. The total number of months included in the dataset_
@@ -16,9 +16,7 @@ The task is to create a Python script that analyzes the records (from the provid
 
 Finally, the PyBank script should print the final analysis to the terminal **and** export a text file with the results. The output result expected for the provided data sample is:
 
-  Financial Analysis
-  
-  ----------------------------
+  **Financial Analysis**
   
   Total Months: 86
   
