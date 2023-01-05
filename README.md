@@ -16,7 +16,6 @@ The task is to create a Python script that analyzes the records (from the provid
 
 Finally, the PyBank script should print the final analysis to the terminal **and** export a text file with the results. The output result expected for the provided data sample is:
 
- ```text
  **Financial Analysis*
  ---------------------
  Total Months: 86
@@ -24,7 +23,6 @@ Finally, the PyBank script should print the final analysis to the terminal **and
  Average  Change: $-2315.12
  Greatest Increase in Profits: Feb-2012 ($1926159)
  Greatest Decrease in Profits: Sep-2013 ($-2196167)
- ```
 
  ` **Financial Analysis*`
  
