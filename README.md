@@ -11,7 +11,7 @@ The task is to create a Python script that analyzes the records (from the provid
  
    _4. Greatest increase in profits (date and amount) over the entire period_
  
-   _5. The greatest decrease in losses (date and amount) over the entire period_
+   _5. The greatest decrease in losses (date and amount) over the entire period._
 
 
 Finally, the PyBank script should print the final analysis to the terminal **and** export a text file with the results. The output result expected for the provided data sample is:
