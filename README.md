@@ -14,18 +14,17 @@ The task is to create a Python script that analyzes the records (from the provid
    _5. The greatest decrease in losses (date and amount) over the entire period_
 
 
-
 Finally, the PyBank script should print the final analysis to the terminal **and** export a text file with the results. The output result expected for the provided data sample is:
 
-  **Financial Analysis**
+ | **Financial Analysis**
   
-  Total Months: 86
+ | Total Months: 86
   
-  Total: $38382578
+ | Total: $38382578
   
-  Average  Change: $-2315.12
+ | Average  Change: $-2315.12
   
-  Greatest Increase in Profits: Feb-2012 ($1926159)
+ | Greatest Increase in Profits: Feb-2012 ($1926159)
   
-  Greatest Decrease in Profits: Sep-2013 ($-2196167)
+ | Greatest Decrease in Profits: Sep-2013 ($-2196167)
   
