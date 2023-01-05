@@ -1,6 +1,6 @@
 # Module 2 Homework (Python)
-## _Attempting only [PyBank]; skipping the optional [PyRamen] challenge
-_
+## _ _Attempting only [PyBank]; skipping the optional [PyRamen] challenge_ _
+---
 The task is to create a Python script that analyzes the records (from the provided 'budget_data.csv' file to calculate each of the following:
  _ _1. The total number of months included in the dataset_ _
  _ _2. The net total amount of Profit/Losses over the entire period_ _
@@ -9,6 +9,7 @@ The task is to create a Python script that analyzes the records (from the provid
  _ _5. The greatest decrease in losses (date and amount) over the entire period_ _
 
 Finally, the PyBank script should print the final analysis to the terminal **and** export a text file with the results. The output result expected for the provided data sample is:
+
   **Financial Analysis
   ----------------------------
   Total Months: 86
