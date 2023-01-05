@@ -3,16 +3,16 @@
 
 The task is to create a Python script that analyzes the records (from the provided 'budget_data.csv' file to calculate each of the following:
 
- _1. The total number of months included in the dataset_
+   _1. The total number of months included in the dataset_
  
- _2. The net total amount of Profit/Losses over the entire period_
+   _2. The net total amount of Profit/Losses over the entire period_
  
- _3. Average of the changes in Profit/Losses over the entire period_
+   _3. Average of the changes in Profit/Losses over the entire period_
  
- _4. Greatest increase in profits (date and amount) over the entire period_
+   _4. Greatest increase in profits (date and amount) over the entire period_
  
- _5. The greatest decrease in losses (date and amount) over the entire period_
- 
+   _5. The greatest decrease in losses (date and amount) over the entire period_
+
 
 
 Finally, the PyBank script should print the final analysis to the terminal **and** export a text file with the results. The output result expected for the provided data sample is:
